@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086171103350",
+    "project_id": "messager-e9327",
+    "storage_bucket": "messager-e9327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086171103350:android:e4182732bab8f72ed99f57",
+        "android_client_info": {
+          "package_name": "com.example.chattestproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-nL03-M6JFZbhLrVWMHMwETaJBgb6O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
